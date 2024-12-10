@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,dynamodb)](https://skillicons.dev)
 
 ### Git & DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,github,azure,aws)](https://skillicons.dev)
